@@ -19,7 +19,6 @@ import { ProductListComponent } from './product-list/product-list.component';
     AppComponent,
     TopBarComponent,
     ProductListComponent,
-    LastViewedComponent
   ],
   bootstrap: [ AppComponent ]
 })
